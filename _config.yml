@@ -83,7 +83,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : "@heet_gorakhiya"
 facebook:
   username               :
   app_id                 :
@@ -108,7 +108,7 @@ analytics:
 author:
   name             : "Heet Gorakhiya"
   avatar           : "/images/heet1.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Machine Learning Developer | Comprehensive Learner | AI Enthusiast"
+  bio              : "Machine Learning Developer | Comprehensive Learner | Computer Science Geek"
   location         : "Ahmedabad, Gujarat, India"
   email            : "heet.gorakhiya@gmail.com"
   links:
